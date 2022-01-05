@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261004323546",
+    "project_id": "least01-3d7d2",
+    "storage_bucket": "least01-3d7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261004323546:android:5cce68c0f55bd8761353e3",
+        "android_client_info": {
+          "package_name": "com.zeeshan.least"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261004323546-u59tefuhp9a5jnvn6kp0sbqqda3hlo87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZHmzujaRkCUvbWv0Lnpy7COJ5UwB0CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261004323546-u59tefuhp9a5jnvn6kp0sbqqda3hlo87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
